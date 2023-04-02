@@ -7,19 +7,25 @@ python3 -m venv env
 
 source env/bin/activate
 
-pip install cookiecutter
-
 ```
+
+```bash
+pip install cookiecutter
+```
+
 ## Download the template 
 
 ```bash
 cookiecutter https://github.com/Monkey8596/Personal_cookiecutter
 ```
+```bash
+pip3 install -r requirements.txt
+```
 
 
 ## Project organization
 
-    prueba
+    Title
         ├── data
         │   ├── processed      <- The final, canonical data sets for modeling.
         │   └── raw            <- The original, immutable data dump.
