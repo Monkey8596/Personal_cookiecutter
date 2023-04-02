@@ -14,6 +14,8 @@ pip install cookiecutter
 
 ```bash
 cookiecutter https://github.com/Monkey8596/Personal_cookiecutter
+
+pip3 install -r requirements.txt
 ```
 
 
