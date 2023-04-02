@@ -1,11 +1,5 @@
 #  Template
 
-By: Sayin.
-
-Version: 0.1.0
-
-Description of the template 
-
 ## Requirements
 
 ```bash
@@ -16,10 +10,10 @@ source env/bin/activate
 pip install cookiecutter
 
 ```
-## Donwload the template 
+## Download the template 
 
 ```bash
-cookiecutter https://github.com/platzi/curso-entorno-avanzado-ds --checkout cookiecutter-personal-platzi
+cookiecutter https://github.com/Monkey8596/Personal_cookiecutter
 ```
 
 
