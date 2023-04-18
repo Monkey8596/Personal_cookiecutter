@@ -1,4 +1,3 @@
-pip install --upgrade pip
 pyjanitor
 fs
 jupyter
