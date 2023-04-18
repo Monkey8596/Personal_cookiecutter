@@ -20,6 +20,10 @@ cookiecutter https://github.com/Monkey8596/Personal_cookiecutter
 ```
 
 ```bash
+pip install --upgrade pip
+```
+
+```bash
 pip3 install -r requirements.txt
 ```
 
